@@ -1,5 +1,4 @@
-### Hi there 👋
-Sravani Sandhya Devi Pyla
+### Hi there 👋 Sravani Sandhya Devi Pyla
 <!--
 **Sravani0410/Sravani0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
