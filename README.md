@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://my-portfoilo-three.vercel.app/](https://my-portfoilo-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sravani.vercel.app/](https://sravani.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
