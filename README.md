@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://sravani.vercel.app/](https://sravani.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfoilo-sandhya.vercel.app/](https://portfoilo-sandhya.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZH2y4rYnKED4YoXxSVzaQWjWkMi75Uxt/view](https://drive.google.com/file/d/1ZH2y4rYnKED4YoXxSVzaQWjWkMi75Uxt/view)
 
-- ⚡ Fun fact **I lisening music while coding**
+- ⚡ Fun fact **I listening music while coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
