@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sandhyapyla.8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18kG2GE1GbYKxNjGqDoCWjLKZCYN5NbOc/view?usp=drive_link](https://drive.google.com/file/d/18kG2GE1GbYKxNjGqDoCWjLKZCYN5NbOc/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DT2sbAP4VBXVn8UtiqfMchMnGJu5fOyI](https://drive.google.com/drive/folders/1DT2sbAP4VBXVn8UtiqfMchMnGJu5fOyI)
 
 - ⚡ Fun fact **I listening music while coding**
 
