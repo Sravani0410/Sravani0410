@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **FullStack**
 
 - 👨‍💻 All of my projects are available at [https://portfoilo-sandhya.vercel.app/](https://portfoilo-sandhya.vercel.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **FullStack**
 
 - 📫 How to reach me **sandhyapyla.8@gmail.com**
 
